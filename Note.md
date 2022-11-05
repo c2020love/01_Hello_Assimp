@@ -7,3 +7,6 @@
 
     cmake_build_type里面填写release
     ![](attachments/2022-11-05-10-32-25.png)
+
+    结果：
+    ![](attachments/2022-11-05-13-46-01.png)
