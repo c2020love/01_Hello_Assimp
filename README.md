@@ -1,2 +1,2 @@
-# 04_Hello_MultiplyLight
-     投光物:多光源MultiplyLight
+# 01_Hello_Assimp
+     OpenGL加载的第一个模型
