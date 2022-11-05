@@ -42,7 +42,7 @@ int main()
 
     Shader modelShader("D:\\opengl\\code\\AssimpCode\\01_Hello_Assimp\\src\\shader\\cubevertex.glsl", "D:\\opengl\\code\\AssimpCode\\01_Hello_Assimp\\src\\shader\\cubefragement.glsl");
     Shader lightShader("D:\\opengl\\code\\AssimpCode\\01_Hello_Assimp\\src\\shader\\lightvetex.glsl" , "D:\\opengl\\code\\AssimpCode\\01_Hello_Assimp\\src\\shader\\lightfragment.glsl");
-    Model ourModel("D:\\opengl\\code\\AssimpCode\\01_Hello_Assimp\\src\\sources\\obj\\nanosuit.obj");
+    Model ourModel("D:\\opengl\\code\\AssimpCode\\01_Hello_Assimp\\src\\sources\\obj2\\Mark 5.obj");
     
     
     float vertices1[] = {
