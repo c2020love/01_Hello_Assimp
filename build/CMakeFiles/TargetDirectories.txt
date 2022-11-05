@@ -1,0 +1,2 @@
+D:/opengl/code/AssimpCode/01_Hello_Assimp/build/CMakeFiles/edit_cache.dir
+D:/opengl/code/AssimpCode/01_Hello_Assimp/build/CMakeFiles/rebuild_cache.dir
